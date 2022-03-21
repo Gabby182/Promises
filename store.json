@@ -1,0 +1,20 @@
+{
+    "sunglasses":
+    {
+        "inventory": 817, 
+        "cost": 9.99
+    },
+    "pants":
+    {
+        "inventory": 236, 
+        "cost": 7.99
+    },
+    "bags":
+    {
+        "inventory": 17, 
+        "cost": 12.99
+    }
+}
+    
+
+
